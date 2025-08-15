@@ -17,3 +17,6 @@ How To Play :
       
   4. Restart the Game :
       Click the "Reset" button to play again.
+
+5. Deployed Project Link :
+   https://tic-tac-toe-brown-three.vercel.app/
